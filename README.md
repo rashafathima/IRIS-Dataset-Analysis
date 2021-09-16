@@ -18,7 +18,7 @@ Then after the segregation , the data and the target were passed on to the model
 
 ## Training and Testing :
 
-### Manually Testing And Training :
+### Manual Testing And Training :
 
 Initially we tried to perform the traning and testing manually, by manually giving out the percentage of train and test datasets (in our case : we used 70% of dataset for training and the rest for testing). 
 
